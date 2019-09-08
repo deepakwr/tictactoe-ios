@@ -10,16 +10,13 @@
 - Game rules and information available at the following link : https://en.wikipedia.org/wiki/Tic-tac-toe
 
 
-#### Screenshots
-![](Screenshots/iPhone_8_Plus_TicTacToe_1.png)
-****
-![](Screenshots/iPhone_8_Plus_TicTacToe_2.png)
-****
-![](Screenshots/iPhone_8_Plus_TicTacToe_3.png)
+#### Demo
+<img src="Screenshots/iPhone_8_Plus_TicTacToe.gif" width="220px">
+
+
 ****
 Available  in the Screenshots folder.
 
 ### Todos
 - Add AI/Computer module.
 - Add support for personal customization for board, noughts and crosses.
-
